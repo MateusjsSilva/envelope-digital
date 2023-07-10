@@ -15,7 +15,6 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.nar
 *.ear
@@ -50,11 +49,14 @@ buildNumber.properties
 **/nbproject/private/
 **/nbproject/Makefile-*.mk
 **/nbproject/Package-*.bash
+**/nbproject
 build/
 nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+build.xml
+manifest.mf
 
 ### VisualStudioCode ###
 .vscode/*
